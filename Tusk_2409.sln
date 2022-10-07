@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tusk_2409", "Tusk_2409\Tusk_2409.csproj", "{74F418C4-673B-465F-967A-E0D0A2B73EBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_2409", "Tusk_2409\Task_2409.csproj", "{74F418C4-673B-465F-967A-E0D0A2B73EBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{52DA81D7-0311-476F-9ED1-F2264C8E5683}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test", "test\test.csproj", "{52DA81D7-0311-476F-9ED1-F2264C8E5683}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Тумаков", "Тумаков\Тумаков.csproj", "{FCA42E3A-B715-4C2B-BC99-3ADA838C9FC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{52DA81D7-0311-476F-9ED1-F2264C8E5683}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52DA81D7-0311-476F-9ED1-F2264C8E5683}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52DA81D7-0311-476F-9ED1-F2264C8E5683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA42E3A-B715-4C2B-BC99-3ADA838C9FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA42E3A-B715-4C2B-BC99-3ADA838C9FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA42E3A-B715-4C2B-BC99-3ADA838C9FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA42E3A-B715-4C2B-BC99-3ADA838C9FC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

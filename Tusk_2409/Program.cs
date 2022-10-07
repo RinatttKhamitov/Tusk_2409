@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Tusk_2409
+namespace Task_2409
 {
     class Program
     {
@@ -79,7 +79,7 @@ namespace Tusk_2409
 
             int sum = 0;
             int number = 0;
-            int count = 0;
+            int count = -1;
             Console.WriteLine("Введи последовательность неотрицательных целых чисел, оканчивающаяся отрицательным числом");
             try
             {
